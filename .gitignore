@@ -2,3 +2,6 @@
 
 data/P31_df.csv
 data/final_entity_list.p
+data/theme_dfs/*
+
+entity_cache.p
