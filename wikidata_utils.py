@@ -34,7 +34,9 @@ class CachedWikidataAPI():
     def get_unique_id_from_str(self, my_str):
         return hashlib.md5(str.encode(my_str)).hexdigest()
         
-    def save_entity_cache(self):
+    def save_entity_cache(self, force=False):
+        if force:
+            self.x_queries_passed = self.save_every_x_queries
         self.x_queries_passed = self.x_queries_passed+1
         if self.x_queries_passed >= self.save_every_x_queries:
             with open(self.cache_path,'wb') as f:
@@ -65,9 +67,12 @@ class CachedWikidataAPI():
             entity = self.get_entity(item)
             if entity == 'deleted':
                 return entity
-            labels = entity['labels']
+            labels = entity['labels' if 'labels' in entity else 'lemmas']
         elif type(item) == dict:
-            labels = item['labels']
+            if 'labels' in item:
+                labels = item['labels']
+            elif 'lemmas' in item:        
+                labels = item['lemmas']
         for l in self.languages:
             if l in labels:
                 return labels[l]['value']
