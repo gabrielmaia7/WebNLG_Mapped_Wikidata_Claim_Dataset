@@ -1,0 +1,377 @@
+entity_id,claim_id,rank,property_id,datatype,datavalue,sampling_weight_vb,sampling_weight
+Q838076,Q838076$d5f3def4-4d11-d019-1542-469958e73de3,normal,P1050,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 11081, 'id': 'Q11081'}, 'type': 'wikibase-entityid'}",9|4,2.25
+Q2596301,Q2596301$C3FAD268-A01E-4B91-9723-0D3EBE763B98,normal,P1050,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 512313, 'id': 'Q512313'}, 'type': 'wikibase-entityid'}",9|4,2.25
+Q699792,Q699792$505e3ffe-41a4-281b-2743-eef8334bc692,normal,P1050,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 405385, 'id': 'Q405385'}, 'type': 'wikibase-entityid'}",9|4,2.25
+Q1635605,Q1635605$dfd65d2a-4609-cd2f-8c68-1bdc625b1f65,normal,P1050,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 12133, 'id': 'Q12133'}, 'type': 'wikibase-entityid'}",9|4,2.25
+Q715597,Q715597$187a747b-4d8a-3776-1259-5c9eb95a3816,normal,P1552,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 4386945, 'id': 'Q4386945'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q2940832,Q2940832$13819F4D-FEDC-423E-A307-02EFA1C77CB2,normal,P1552,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 5223550, 'id': 'Q5223550'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q632212,Q632212$9F9F57B3-C45D-4526-BBEB-BB0273F9D1BC,normal,P1552,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 5223550, 'id': 'Q5223550'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q21976306,Q21976306$B5C2693F-E78B-4EA8-96E5-AB8666D42A8F,normal,P1552,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 5223550, 'id': 'Q5223550'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q96678035,Q96678035$1e333473-4c57-541a-197b-0c0a6223c47e,normal,P1552,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3800808, 'id': 'Q3800808'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q96943500,Q96943500$64c72a7e-4611-e955-0b43-36682fa8ae48,normal,P136,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 276258, 'id': 'Q276258'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q1839300,Q1839300$BF2F8C98-6742-478A-9E98-EC2962F2E3F4,normal,P136,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1273568, 'id': 'Q1273568'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q7428360,Q7428360$503d0b0a-4a74-fe9e-ab3d-4bab3c9c28c9,normal,P136,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 181001, 'id': 'Q181001'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q1140524,Q1140524$4C28E10E-1176-41ED-942D-2B0C925F7FF2,normal,P136,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 4292083, 'id': 'Q4292083'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q96943500,Q96943500$a1b240ee-4f8f-d493-62e0-026c4dbdc7bc,normal,P136,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 35874, 'id': 'Q35874'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q715597,Q715597$4B87DF3C-4268-4BCD-995F-B79164CA2D7F,normal,P1830,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1752911, 'id': 'Q1752911'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q1203370,Q1203370$dccec1db-42c7-1903-91ce-67dc3860057d,normal,P1830,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1898129, 'id': 'Q1898129'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q2755010,Q2755010$b96c7934-482a-22a9-7bef-ae7b60113ebc,normal,P1830,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 611892, 'id': 'Q611892'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q1203370,Q1203370$6e670fbd-4a3b-e1b1-7e6c-c57051f048bf,normal,P1830,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 20933375, 'id': 'Q20933375'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q90475483,Q90475483$072ed663-485c-e15c-8c2a-4196d03b8925,normal,P1830,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 18246479, 'id': 'Q18246479'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q2755291,Q2755291$a1dd0944-4bfc-e70c-c3e8-dd40c7658844,normal,P101,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 206887, 'id': 'Q206887'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q12963444,Q12963444$5260082d-4ba6-9fe5-9c6d-9d984f955af9,normal,P101,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 901, 'id': 'Q901'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q12963444,Q12963444$e2a43b0e-4820-aaa9-fe0f-e644cdf9a165,normal,P101,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 14886050, 'id': 'Q14886050'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q12963444,Q12963444$ADD72948-97BF-45E0-8C00-20793595927A,normal,P101,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 593644, 'id': 'Q593644'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q838076,Q838076$93eef6d5-414b-a89d-8011-78389c736ba7,normal,P101,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 7162, 'id': 'Q7162'}, 'type': 'wikibase-entityid'}",9|5,1.8
+Q838088,Q838088$8CDFD328-548B-424E-B784-F6A44680885C,normal,P91,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6636, 'id': 'Q6636'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q2719427,Q2719427$11CD815D-F617-458D-BE64-11E1B4CC4533,normal,P91,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6636, 'id': 'Q6636'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q5457942,Q5457942$01E33E4C-6EB6-4EC9-87FE-205DF3FBEAF7,normal,P91,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6636, 'id': 'Q6636'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q2308692,Q2308692$FADC4E22-FEC0-4F07-961D-78E41DB7104D,normal,P91,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6636, 'id': 'Q6636'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q7296989,Q7296989$D5D10AC8-1C69-4B57-8D14-F6EF3FE0A7CA,normal,P91,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6636, 'id': 'Q6636'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q7428360,Q7428360$7ef04c15-4f98-1680-8413-6026399ff0a2,normal,P1433,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6416261, 'id': 'Q6416261'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q5966655,Q5966655$7c97920e-40b1-edf6-d7aa-bdd61c010bf4,normal,P1433,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3410744, 'id': 'Q3410744'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q5981176,Q5981176$78f6d0b2-46e2-b600-24a5-9ebaad17cb69,normal,P1433,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 9090869, 'id': 'Q9090869'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q4475522,Q4475522$01baae04-4e92-51bf-80c9-f1ac85272faf,normal,P1433,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 4515714, 'id': 'Q4515714'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q5981176,Q5981176$dcaa7aa6-4956-0759-dc6b-abc7519ab66d,normal,P1433,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6135675, 'id': 'Q6135675'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q607489,Q607489$63691A47-78BB-4DF2-8899-BC62848802DE,normal,P8852,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 42804, 'id': 'Q42804'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q2574607,Q2574607$3CE2A667-3D57-4044-B036-4EBD220D3A24,normal,P8852,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 890356, 'id': 'Q890356'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q3196996,Q3196996$587F61C7-9FC1-431B-B440-97F21359CD15,normal,P8852,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 15179, 'id': 'Q15179'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q13737074,Q13737074$69A89F04-5312-45EA-999D-9273061BDC8A,normal,P8852,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 942900, 'id': 'Q942900'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q3782356,Q3782356$2575E475-3CDD-4889-B149-F6137D0EB380,normal,P8852,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 15179, 'id': 'Q15179'}, 'type': 'wikibase-entityid'}",10|5,2.0
+Q3545359,Q3545359$99085a01-4712-7ae8-03e0-1be348647751,normal,P802,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 427647, 'id': 'Q427647'}, 'type': 'wikibase-entityid'}",11|5,2.2
+Q1059655,Q1059655$e05641e1-46eb-75b6-6617-0ec13a1915e6,normal,P802,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2704496, 'id': 'Q2704496'}, 'type': 'wikibase-entityid'}",11|5,2.2
+Q7072021,Q7072021$3794bbc8-42f8-5bbd-3bba-4a52c76e960c,normal,P802,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3934793, 'id': 'Q3934793'}, 'type': 'wikibase-entityid'}",11|5,2.2
+Q924583,Q924583$3adbb124-4bda-7a50-153d-fa737c898623,normal,P802,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2250235, 'id': 'Q2250235'}, 'type': 'wikibase-entityid'}",11|5,2.2
+Q2082114,Q2082114$1b4e6cc8-46bb-4323-0673-801664df7338,normal,P802,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2078291, 'id': 'Q2078291'}, 'type': 'wikibase-entityid'}",11|5,2.2
+Q2084006,Q2084006$edb0c30a-49d8-b8ff-f4dc-4680d04618e1,normal,P4675,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 5, 'id': 'Q5'}, 'type': 'wikibase-entityid'}",11|5,2.2
+Q11897361,Q11897361$77b04831-415d-0f28-2909-a0f559e391f0,normal,P4675,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 42948, 'id': 'Q42948'}, 'type': 'wikibase-entityid'}",11|5,2.2
+Q4782681,Q4782681$af317458-4f1c-3092-d799-b8bfe6c1ab4b,normal,P4675,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 4782683, 'id': 'Q4782683'}, 'type': 'wikibase-entityid'}",11|5,2.2
+Q699792,Q699792$28108d7e-4c1b-6ab2-ba91-8232b4ecfbff,normal,P4675,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3031, 'id': 'Q3031'}, 'type': 'wikibase-entityid'}",11|5,2.2
+Q1660452,Q1660452$725849c6-4973-9d8d-bbc8-c3bb70c513c4,normal,P4675,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 180784, 'id': 'Q180784'}, 'type': 'wikibase-entityid'}",11|5,2.2
+Q73418289,Q73418289$ee7f6e61-450a-458d-fad8-940c5d5cbfde,normal,P1449,monolingualtext,"{'value': {'text': 'Lill-Erik', 'language': 'sv'}, 'type': 'monolingualtext'}",12|5,2.4
+Q65038042,Q65038042$6e2cb9e2-47f1-9a87-8c11-96738d9fa61f,normal,P1449,monolingualtext,"{'value': {'text': 'Uravity', 'language': 'en'}, 'type': 'monolingualtext'}",12|5,2.4
+Q104785246,Q104785246$ff539152-4b42-45b5-8ff7-d9b2c2a6fab4,normal,P1449,monolingualtext,"{'value': {'text': 'Kei', 'language': 'en'}, 'type': 'monolingualtext'}",12|5,2.4
+Q62851303,Q62851303$ac75c4d8-489f-4f91-216f-9c38091e0f74,normal,P1449,monolingualtext,"{'value': {'text': 'El', 'language': 'en'}, 'type': 'monolingualtext'}",12|5,2.4
+Q37709790,Q37709790$48f9ae88-4397-ef9d-5826-fb76d84c76d4,normal,P1449,monolingualtext,"{'value': {'text': 'イシド シュウジ', 'language': 'ja'}, 'type': 'monolingualtext'}",12|5,2.4
+Q64578023,Q64578023$4640803a-4334-7de2-ba53-a3864d766407,normal,P108,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 64541653, 'id': 'Q64541653'}, 'type': 'wikibase-entityid'}",12|5,2.4
+Q64541804,Q64541804$540c66fa-46e1-f291-15a9-d8395614edca,normal,P108,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 64541653, 'id': 'Q64541653'}, 'type': 'wikibase-entityid'}",12|5,2.4
+Q1203370,Q1203370$84dfbb3e-48b7-6a66-c819-6e7f823f5793,normal,P108,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3334340, 'id': 'Q3334340'}, 'type': 'wikibase-entityid'}",12|5,2.4
+Q64510174,Q64510174$aff52a36-4220-0472-641b-cfb66e6102d5,normal,P108,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 64541653, 'id': 'Q64541653'}, 'type': 'wikibase-entityid'}",12|5,2.4
+Q4009216,Q4009216$7ea246b8-4287-2ba9-e33e-45c2f0b514ef,normal,P108,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 911971, 'id': 'Q911971'}, 'type': 'wikibase-entityid'}",12|5,2.4
+Q59640,Q59640$43cb2f52-4ed3-39b9-0273-eb09a572426d,normal,P577,time,"{'value': {'time': '+1967-05-05T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 11, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",12|5,2.4
+Q55688610,Q55688610$90ded269-4b2f-41c5-c2f3-bcf6bed715db,normal,P577,time,"{'value': {'time': '+2004-00-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 9, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",12|5,2.4
+Q11947,Q11947$36c7d608-4f1a-8e19-cd0d-a1d7349358af,normal,P577,time,"{'value': {'time': '+1925-01-01T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 9, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",12|5,2.4
+Q55686884,Q55686884$8d2fb940-4cc1-353c-9b3f-39e0259b8af0,normal,P577,time,"{'value': {'time': '+2002-00-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 9, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",12|5,2.4
+Q4475522,Q4475522$297c1ee3-4120-696a-5875-87931de92c49,normal,P577,time,"{'value': {'time': '+1930-00-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 8, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",12|5,2.4
+Q5966655,Q5966655$d685647d-4435-7eea-8e6b-836abf1c7549,normal,P580,time,"{'value': {'time': '+1958-07-07T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 11, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",12|5,2.4
+Q5821200,Q5821200$992400E8-CD4E-45C8-BA36-3772872D72D7,normal,P580,time,"{'value': {'time': '+1944-00-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 9, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",12|5,2.4
+Q1839300,Q1839300$810860D0-8DC8-48F9-9193-53817D872C7F,normal,P580,time,"{'value': {'time': '+2004-00-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 9, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",12|5,2.4
+Q5813184,Q5813184$f4656d1f-433e-0e50-bf31-16e19d1b11d7,normal,P580,time,"{'value': {'time': '+1947-00-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 9, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",12|5,2.4
+Q5667048,Q5667048$2a4bd727-4338-94f2-94e1-e04424d4c46d,normal,P580,time,"{'value': {'time': '+1951-06-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 10, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",12|5,2.4
+Q975100,Q975100$80599d2e-49d7-8406-067f-a0242e1d0027,normal,P607,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 8663, 'id': 'Q8663'}, 'type': 'wikibase-entityid'}",12|5,2.4
+Q975100,Q975100$da674b47-4360-5462-835e-b64780ce7c16,normal,P607,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 362, 'id': 'Q362'}, 'type': 'wikibase-entityid'}",12|5,2.4
+Q16958514,Q16958514$D89655AB-4AB7-4A8F-BDD0-0B2BC42A5ECC,normal,P607,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 8740, 'id': 'Q8740'}, 'type': 'wikibase-entityid'}",12|5,2.4
+Q858559,Q858559$e926af2a-4d86-3966-6b3c-94a936c11091,normal,P607,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 17095030, 'id': 'Q17095030'}, 'type': 'wikibase-entityid'}",12|5,2.4
+Q6542426,Q6542426$6C2BCC0F-D454-4F7B-A043-E9C1F7E0D2F4,normal,P607,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 8740, 'id': 'Q8740'}, 'type': 'wikibase-entityid'}",12|5,2.4
+Q4735003,Q4735003$94d5a56c-48f1-44b4-bd69-4d9a442ac27e,normal,P2067,quantity,"{'value': {'amount': '+75', 'unit': 'http://www.wikidata.org/entity/Q11570'}, 'type': 'quantity'}",12|5,2.4
+Q4675064,Q4675064$d4ae0a61-4b2a-d4a4-2001-0164be523d86,normal,P2067,quantity,"{'value': {'amount': '+57', 'unit': 'http://www.wikidata.org/entity/Q11570'}, 'type': 'quantity'}",12|5,2.4
+Q107038571,Q107038571$29f0a1fb-441d-6d9c-0ee1-7b6147210813,normal,P2067,quantity,"{'value': {'amount': '+35', 'unit': 'http://www.wikidata.org/entity/Q11570'}, 'type': 'quantity'}",12|5,2.4
+Q3878416,Q3878416$8ad714be-40e0-cc2f-ffcc-706e5425a395,normal,P2067,quantity,"{'value': {'amount': '+65', 'unit': 'http://www.wikidata.org/entity/Q11570'}, 'type': 'quantity'}",12|5,2.4
+Q2279920,Q2279920$6dee9375-4f1b-f5cf-21f0-9d48d52100de,normal,P2067,quantity,"{'value': {'amount': '+57', 'unit': 'http://www.wikidata.org/entity/Q11570'}, 'type': 'quantity'}",12|5,2.4
+Q755181,Q755181$5054930c-472b-0f73-615a-15705e5d9eeb,normal,P460,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 63886125, 'id': 'Q63886125'}, 'type': 'wikibase-entityid'}",13|5,2.6
+Q554163,Q554163$19f3b9fe-4ef2-1da1-5af9-e1d4cf57c6a8,normal,P460,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 63886116, 'id': 'Q63886116'}, 'type': 'wikibase-entityid'}",13|5,2.6
+Q1014080,Q1014080$125c41ad-406e-1542-2484-c185b661a9e7,normal,P460,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 302550, 'id': 'Q302550'}, 'type': 'wikibase-entityid'}",13|5,2.6
+Q3645503,Q3645503$56620c46-481d-de30-bc58-3af026f1b1c5,normal,P460,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2695156, 'id': 'Q2695156'}, 'type': 'wikibase-entityid'}",13|5,2.6
+Q28752795,Q28752795$73efabcc-43d2-849d-2266-bae0373a86fd,normal,P460,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 925172, 'id': 'Q925172'}, 'type': 'wikibase-entityid'}",13|5,2.6
+Q5942295,Q5942295$f88ce957-41d6-e4ff-5677-6be50a11ba80,normal,P97,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 12826225, 'id': 'Q12826225'}, 'type': 'wikibase-entityid'}",14|5,2.8
+Q632212,Q632212$5FB1B526-E36E-44F5-AA1D-3B64C7926A46,normal,P97,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 61928601, 'id': 'Q61928601'}, 'type': 'wikibase-entityid'}",14|5,2.8
+Q2405949,Q2405949$b9b2625c-4636-bfaf-6e5f-fec710ec1aa8,normal,P97,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 16658189, 'id': 'Q16658189'}, 'type': 'wikibase-entityid'}",14|5,2.8
+Q796476,Q796476$6c5d68c4-4e29-c6d7-3e4c-d5a53bc36a64,normal,P97,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3519259, 'id': 'Q3519259'}, 'type': 'wikibase-entityid'}",14|5,2.8
+Q48781831,Q48781831$da1a1a44-4580-d51d-eeda-5ca9b5e372f2,normal,P97,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 61928601, 'id': 'Q61928601'}, 'type': 'wikibase-entityid'}",14|5,2.8
+Q4782681,Q4782681$6ee69835-4da8-588e-2199-83bfeb61167a,normal,P2546,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 623059, 'id': 'Q623059'}, 'type': 'wikibase-entityid'}",15|5,3.0
+Q7071319,Q7071319$ed3db5d1-4cee-4a66-7bcf-f7a024782de8,normal,P2546,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 839858, 'id': 'Q839858'}, 'type': 'wikibase-entityid'}",15|5,3.0
+Q1660452,Q1660452$061a6b1e-4a26-3eba-3687-b81d5b2926f2,normal,P2546,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 611576, 'id': 'Q611576'}, 'type': 'wikibase-entityid'}",15|5,3.0
+Q796401,Q796401$dd283e09-4592-44aa-77c1-89fef6e8a8ee,normal,P2546,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 721050, 'id': 'Q721050'}, 'type': 'wikibase-entityid'}",15|5,3.0
+Q27965060,Q27965060$e29634a5-476f-088e-c0bd-ea16484eafda,normal,P2546,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 79015, 'id': 'Q79015'}, 'type': 'wikibase-entityid'}",15|5,3.0
+Q62707823,Q62707823$c41da9fe-469f-6907-3002-c3e92c96cd83,normal,P6249,quantity,"{'value': {'amount': '+27', 'unit': 'http://www.wikidata.org/entity/Q24564698'}, 'type': 'quantity'}",15|5,3.0
+Q74027916,Q74027916$b8a345ea-42a0-2d0d-032f-397581487a4a,normal,P6249,quantity,"{'value': {'amount': '+12', 'unit': 'http://www.wikidata.org/entity/Q24564698'}, 'type': 'quantity'}",15|5,3.0
+Q104785246,Q104785246$5ecb2413-4e05-ba16-1abd-4b5932cdf4e6,normal,P6249,quantity,"{'value': {'amount': '+29', 'unit': 'http://www.wikidata.org/entity/Q24564698'}, 'type': 'quantity'}",15|5,3.0
+Q96678035,Q96678035$e04b083e-4208-1ee4-553f-49bfbbac0c23,normal,P6249,quantity,"{'value': {'amount': '+11', 'unit': 'http://www.wikidata.org/entity/Q24564698'}, 'type': 'quantity'}",15|5,3.0
+Q54858135,Q54858135$afcb0d1b-4bdf-89ac-86d9-fc2c27cc13ef,normal,P6249,quantity,"{'value': {'amount': '+56', 'unit': 'http://www.wikidata.org/entity/Q24564698'}, 'type': 'quantity'}",15|5,3.0
+Q1051167,Q1051167$c12bde6b-4e5a-1acc-d297-e831db3905a8,normal,P742,string,"{'value': 'Hellcat', 'type': 'string'}",16|5,3.2
+Q17853991,Q17853991$610f222a-479b-a04d-e946-6977b8a9d159,normal,P742,string,"{'value': 'Rose', 'type': 'string'}",16|5,3.2
+Q40044957,Q40044957$F25AF9DD-89ED-4ED1-B6DC-353B3E33A679,normal,P742,string,"{'value': 'Eggsy', 'type': 'string'}",16|5,3.2
+Q718509,Q718509$28808df5-4be2-1b0c-dc0f-3040dab39c66,normal,P742,string,"{'value': 'Pain', 'type': 'string'}",16|5,3.2
+Q65038042,Q65038042$75acf327-4edf-519b-e98e-b565e9f50eab,normal,P742,string,"{'value': 'Uravity', 'type': 'string'}",16|5,3.2
+Q1140524,Q1140524$EDAA1E3D-F848-436E-B28E-90BEA0825DCB,normal,P241,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3334340, 'id': 'Q3334340'}, 'type': 'wikibase-entityid'}",16|5,3.2
+Q1143582,Q1143582$94BFF87A-4B5A-45AF-BBC1-D69EF22E991D,normal,P241,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3334340, 'id': 'Q3334340'}, 'type': 'wikibase-entityid'}",16|5,3.2
+Q23902656,Q23902656$0F7C677B-32E9-43EA-9522-26971D1D3920,normal,P241,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3334340, 'id': 'Q3334340'}, 'type': 'wikibase-entityid'}",16|5,3.2
+Q975100,Q975100$b983cdb8-408a-1962-56a1-57f81fa8f2f4,normal,P241,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 4049343, 'id': 'Q4049343'}, 'type': 'wikibase-entityid'}",16|5,3.2
+Q7880226,Q7880226$7f898ea2-499f-ddda-22dd-86b8d56862aa,normal,P241,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 9212, 'id': 'Q9212'}, 'type': 'wikibase-entityid'}",16|5,3.2
+Q10750341,Q10750341$e8a36fb0-481c-c7e7-b989-3cd6aa3bee19,normal,P39,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 18058376, 'id': 'Q18058376'}, 'type': 'wikibase-entityid'}",18|5,3.6
+Q1634726,Q1634726$50b60096-44d0-0cc0-5565-e9ed39a6907d,normal,P39,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3493648, 'id': 'Q3493648'}, 'type': 'wikibase-entityid'}",18|5,3.6
+Q2708077,Q2708077$51E2E04E-FA70-428D-8B99-6B6BFA21F5A1,normal,P39,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 73374532, 'id': 'Q73374532'}, 'type': 'wikibase-entityid'}",18|5,3.6
+Q2279525,Q2279525$aabf7aab-409b-16ed-cd8f-9c711d3698ed,normal,P39,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 183318, 'id': 'Q183318'}, 'type': 'wikibase-entityid'}",18|5,3.6
+Q16958514,Q16958514$1c0278b9-43d7-3545-1376-08ebcdf0e340,normal,P39,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2101758, 'id': 'Q2101758'}, 'type': 'wikibase-entityid'}",18|5,3.6
+Q100996915,Q100996915$af789b53-4e1f-00c4-6356-c5fab21e645d,normal,P641,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1734, 'id': 'Q1734'}, 'type': 'wikibase-entityid'}",19|5,3.8
+Q2721145,Q2721145$C62BBDAB-BBCB-404B-8779-4B244E68C48B,normal,P641,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 847, 'id': 'Q847'}, 'type': 'wikibase-entityid'}",19|5,3.8
+Q53458997,Q53458997$9ee090d9-4a28-4fd1-93ea-32426bd23d9b,normal,P641,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 5372, 'id': 'Q5372'}, 'type': 'wikibase-entityid'}",19|5,3.8
+Q194705,Q194705$66BF5154-76EF-4347-AA9A-3144C52A2B13,normal,P641,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 11419, 'id': 'Q11419'}, 'type': 'wikibase-entityid'}",19|5,3.8
+Q3831740,Q3831740$8B2F100B-CFC3-4F46-8AA1-D5A1C624F177,normal,P641,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 31920, 'id': 'Q31920'}, 'type': 'wikibase-entityid'}",19|5,3.8
+Q107038355,Q107038355$3afabcf7-4c08-65e7-45e6-3944a9584224,normal,P1814,string,"{'value': 'いろかわ るき', 'type': 'string'}",19|5,3.8
+Q13092949,Q13092949$f6f32bb2-4490-166f-632f-8ab7b674010a,normal,P1814,string,"{'value': 'けっしょうばん', 'type': 'string'}",19|5,3.8
+Q3826238,Q3826238$a41be186-4070-331a-0913-7efc27bd15e6,normal,P1814,string,"{'value': 'ララ・サタリン・デビルーク', 'type': 'string'}",19|5,3.8
+Q107038571,Q107038571$01da9238-4324-de84-6263-72201c7ff931,normal,P1814,string,"{'value': 'せきの ロコ', 'type': 'string'}",19|5,3.8
+Q203240,Q203240$12BA3483-2CFE-4325-ABE4-2E8B66BC74B6,normal,P1814,string,"{'value': 'うちはサクラ', 'type': 'string'}",19|5,3.8
+Q107038571,Q107038571$976013ba-4d41-588a-c2bf-f9b00cb80983,normal,P1853,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 19831454, 'id': 'Q19831454'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q952328,Q952328$24bc1618-499f-06cc-78d8-072b9b8e83da,normal,P1853,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 19831453, 'id': 'Q19831453'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q822223,Q822223$15e9b5dc-4c9b-35c1-52e2-726abb39bbb3,normal,P1853,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 19831453, 'id': 'Q19831453'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q107038581,Q107038581$057c1f55-42c9-673e-2e63-ae05a586549e,normal,P1853,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 19831455, 'id': 'Q19831455'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q2843767,Q2843767$ff3770b3-4f8a-a061-1c7e-41b1dde87633,normal,P1853,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 19831454, 'id': 'Q19831454'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q104785246,Q104785246$06f00327-4bfb-995f-19b0-1ac25c109718,normal,P3342,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 377368, 'id': 'Q377368'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q73418289,Q73418289$7a4e2179-4383-7f17-3ca7-3a725a340b7e,normal,P3342,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 106411015, 'id': 'Q106411015'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q73418289,Q73418289$e68d8daf-43a5-2d93-6922-eccfb584b7cc,normal,P3342,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 20760547, 'id': 'Q20760547'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q1140361,Q1140361$031433f9-4251-fed1-c6dd-208f5a894306,normal,P3342,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6550, 'id': 'Q6550'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q61355613,Q61355613$ee6753a4-4bbb-0faa-443b-3e760305a86d,normal,P3342,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 61355611, 'id': 'Q61355611'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q11819141,Q11819141$bfad0036-4e9e-1f27-937d-476c7ffdcb27,normal,P123,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 173496, 'id': 'Q173496'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q5981176,Q5981176$07c1bd0c-433a-245e-af2e-dc075f61224a,normal,P123,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3275000, 'id': 'Q3275000'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q5813184,Q5813184$9b2b3b6f-4c33-309e-e613-5d2b066929f7,normal,P123,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3275000, 'id': 'Q3275000'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q13564916,Q13564916$EF420AF5-D5F4-46EB-9E36-8DE2800407AD,normal,P123,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2924461, 'id': 'Q2924461'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q4920997,Q4920997$F5A6EC46-D6C6-4767-9AE2-71E1BED4DC60,normal,P123,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2924461, 'id': 'Q2924461'}, 'type': 'wikibase-entityid'}",21|5,4.2
+Q100996915,Q100996915$047FC867-E07E-4569-AF21-7F4EE817F1CF,normal,P8839,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 653122, 'id': 'Q653122'}, 'type': 'wikibase-entityid'}",22|5,4.4
+Q59928856,Q59928856$DC49E037-2382-46EA-92FC-9927FE19D715,normal,P8839,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 653122, 'id': 'Q653122'}, 'type': 'wikibase-entityid'}",22|5,4.4
+Q2294767,Q2294767$A2AE2C7A-1294-4D81-BB65-D9BEC518FF72,normal,P8839,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 388036, 'id': 'Q388036'}, 'type': 'wikibase-entityid'}",22|5,4.4
+Q104785246,Q104785246$9dc988d1-4460-b450-4e44-d039a44f6d82,normal,P8839,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 102247646, 'id': 'Q102247646'}, 'type': 'wikibase-entityid'}",22|5,4.4
+Q63959064,Q63959064$E9D3EFAA-C0BB-438F-8A31-0390A604E362,normal,P8839,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 388036, 'id': 'Q388036'}, 'type': 'wikibase-entityid'}",22|5,4.4
+Q18286233,Q18286233$212e2818-4095-4e24-507c-54a96a26cbbb,normal,P410,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 380782, 'id': 'Q380782'}, 'type': 'wikibase-entityid'}",25|5,5.0
+Q607489,Q607489$9946a7bf-4ac3-e64b-c4a1-41cd1210fa10,normal,P410,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 77798288, 'id': 'Q77798288'}, 'type': 'wikibase-entityid'}",25|5,5.0
+Q1203370,Q1203370$af99abec-4fcc-a62a-febe-9d03f5b9cbb6,normal,P410,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 493898, 'id': 'Q493898'}, 'type': 'wikibase-entityid'}",25|5,5.0
+Q975100,Q975100$2f84545d-4672-735d-43ec-98b3df99b249,normal,P410,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2984198, 'id': 'Q2984198'}, 'type': 'wikibase-entityid'}",25|5,5.0
+Q4009216,Q4009216$d08c5799-44d9-2459-54d1-5f11ba8e9388,normal,P410,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 19100, 'id': 'Q19100'}, 'type': 'wikibase-entityid'}",25|5,5.0
+Q3547702,Q3547702$7bfccda4-45ad-35bd-0567-6ce142fd08ca,normal,P69,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 5928982, 'id': 'Q5928982'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q38038870,Q38038870$d909864d-480f-9f01-1817-cfe61ce024b6,normal,P69,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 38034088, 'id': 'Q38034088'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q3631396,Q3631396$56fe8127-495b-7a96-ada8-d32d57f8449a,normal,P69,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 64547228, 'id': 'Q64547228'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q87830415,Q87830415$066db736-46eb-a974-d1db-7288d1149a0f,normal,P69,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 5928982, 'id': 'Q5928982'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q105350971,Q105350971$cbb98a82-458e-80d4-c6dd-7e561dffb79d,normal,P69,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 34433, 'id': 'Q34433'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q252662,Q252662$FAE8682B-1440-416F-BF0F-D262FAA80341,normal,P9071,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6498903, 'id': 'Q6498903'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q43267139,Q43267139$F0FBCD8A-803A-4A2E-8F37-AFCC7AECBB02,normal,P9071,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 290691, 'id': 'Q290691'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q255860,Q255860$6767EBCF-B3C0-4B11-A9A3-66D896A08635,normal,P9071,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6498903, 'id': 'Q6498903'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q578094,Q578094$29D21C59-18E0-45DD-90A7-0F1178D28084,normal,P9071,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 614130, 'id': 'Q614130'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q100902261,Q100902261$16ECB1A4-B60C-4B7B-A505-03B30702297B,normal,P9071,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1047501, 'id': 'Q1047501'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q28859527,Q28859527$4b80d1d5-4201-efca-5930-32208df072e5,normal,P3150,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2313, 'id': 'Q2313'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q59928856,Q59928856$a4cf8e25-4b34-bd25-2000-5a3fec4f5031,normal,P3150,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3017, 'id': 'Q3017'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q3100233,Q3100233$884e4892-4a20-1859-0e75-935662bd25a2,normal,P3150,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2562, 'id': 'Q2562'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q80398710,Q80398710$d8fda46f-4a05-8d26-d3af-2119c5a891f6,normal,P3150,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2989, 'id': 'Q2989'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q105085448,Q105085448$08aea815-4585-0076-84a7-424b89e146b1,normal,P3150,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2396, 'id': 'Q2396'}, 'type': 'wikibase-entityid'}",27|5,5.4
+Q2531690,Q2531690$49a130e5-48c6-0d01-78df-a8f7d0300010,normal,P571,time,"{'value': {'time': '+1919-12-19T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 11, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",28|5,5.6
+Q715763,Q715763$ea165033-4f78-e3e2-1db2-38dcdda822d0,normal,P571,time,"{'value': {'time': '+1940-06-07T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 11, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",28|5,5.6
+Q24884781,Q24884781$3e5a8f18-4865-42f7-9e16-6ff16c1ce366,normal,P571,time,"{'value': {'time': '+1968-00-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 9, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",28|5,5.6
+Q6378512,Q6378512$613d0ab5-4db4-4141-7b55-d483c556f3e5,normal,P571,time,"{'value': {'time': '+1945-00-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 9, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",28|5,5.6
+Q108732,Q108732$4901c681-43f6-7ee1-8ea8-628d590f3a02,normal,P571,time,"{'value': {'time': '+1930-09-05T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 11, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",28|5,5.6
+Q2075745,Q2075745$785804C0-E14D-4E1F-955A-B133BDF3F9E9,normal,P495,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 30, 'id': 'Q30'}, 'type': 'wikibase-entityid'}",28|5,5.6
+Q5813184,Q5813184$4025F452-47B5-471E-A35C-1CE0AC92A4F1,normal,P495,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 29, 'id': 'Q29'}, 'type': 'wikibase-entityid'}",28|5,5.6
+Q18822150,Q18822150$9D14F6E5-6473-454F-9586-BD7ADB818104,normal,P495,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 30, 'id': 'Q30'}, 'type': 'wikibase-entityid'}",28|5,5.6
+Q5395966,Q5395966$ABBB0028-96C6-4DFC-9669-D90C7CEEC473,normal,P495,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 29, 'id': 'Q29'}, 'type': 'wikibase-entityid'}",28|5,5.6
+Q10319751,Q10319751$4ef86732-4a6d-2d20-72df-051dbff01491,normal,P495,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 155, 'id': 'Q155'}, 'type': 'wikibase-entityid'}",28|5,5.6
+Q755181,Q755181$f54264a8-4b97-6b66-ad17-63dd6adb9110,normal,P2048,quantity,"{'value': {'amount': '+180', 'unit': 'http://www.wikidata.org/entity/Q174728', 'upperBound': '+181', 'lowerBound': '+179'}, 'type': 'quantity'}",29|5,5.8
+Q52310,Q52310$938e2dce-450b-0e81-c3c5-520e9aad525a,normal,P2048,quantity,"{'value': {'amount': '+1.7', 'unit': 'http://www.wikidata.org/entity/Q11573'}, 'type': 'quantity'}",29|5,5.8
+Q3100233,Q3100233$1104064b-439e-4ed4-4cfc-89bf4d39773e,normal,P2048,quantity,"{'value': {'amount': '+188', 'unit': 'http://www.wikidata.org/entity/Q174728'}, 'type': 'quantity'}",29|5,5.8
+Q65038042,Q65038042$f8029811-4680-9142-89b9-ac1d9145aad4,normal,P2048,quantity,"{'value': {'amount': '+156', 'unit': 'http://www.wikidata.org/entity/Q174728'}, 'type': 'quantity'}",29|5,5.8
+Q2279920,Q2279920$9259c799-49f1-f3ac-96a3-9dca694f5a7f,normal,P2048,quantity,"{'value': {'amount': '+171', 'unit': 'http://www.wikidata.org/entity/Q174728'}, 'type': 'quantity'}",29|5,5.8
+Q924583,Q924583$b3083a5b-412a-765d-2f98-a19027c151cc,normal,P1066,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 4015985, 'id': 'Q4015985'}, 'type': 'wikibase-entityid'}",30|5,6.0
+Q323920,Q323920$1d766d16-44d8-a1ba-fa9f-4b661775af32,normal,P1066,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2082114, 'id': 'Q2082114'}, 'type': 'wikibase-entityid'}",30|5,6.0
+Q700502,Q700502$fa8ec018-4e38-9279-bfd4-7b40439f41ef,normal,P1066,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 719014, 'id': 'Q719014'}, 'type': 'wikibase-entityid'}",30|5,6.0
+Q3664029,Q3664029$5ab06e94-473d-1fc7-6208-fa7227ab4b3a,normal,P1066,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3621382, 'id': 'Q3621382'}, 'type': 'wikibase-entityid'}",30|5,6.0
+Q1640011,Q1640011$d9388419-4dbf-0241-3b71-33ec8b372b5f,normal,P1066,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1997841, 'id': 'Q1997841'}, 'type': 'wikibase-entityid'}",30|5,6.0
+Q2519257,Q2519257$5447c9b1-4273-c1b3-37b5-a310803334c6,normal,P569,time,"{'value': {'time': '+1929-00-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 9, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",34|5,6.8
+Q3878416,Q3878416$92e70806-4e3d-a94d-001b-e1ce6684a4d6,normal,P569,time,"{'value': {'time': '+1971-00-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 9, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",34|5,6.8
+Q645718,Q645718$b3439627-4164-65f7-83c3-9e1c09f6df94,normal,P569,time,"{'value': {'time': '+0600-00-00T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 7, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985786'}, 'type': 'time'}",34|5,6.8
+Q60685,Q60685$34C5AE57-E3E3-40C0-919E-0E17F7F54592,normal,P569,time,"{'value': {'time': '+1977-08-02T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 11, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",34|5,6.8
+Q15968426,Q15968426$0f5c6de4-4e3a-16cf-4cea-110632b84477,normal,P569,time,"{'value': {'time': '+1982-04-03T00:00:00Z', 'timezone': 0, 'before': 0, 'after': 0, 'precision': 11, 'calendarmodel': 'http://www.wikidata.org/entity/Q1985727'}, 'type': 'time'}",34|5,6.8
+Q65275519,Q65275519$1865F646-6FFB-4A08-8D95-BFDF38022867,normal,P361,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 497229, 'id': 'Q497229'}, 'type': 'wikibase-entityid'}",38|5,7.6
+Q7468032,Q7468032$7ad12563-46f7-d174-1e6d-5b99a815fc2b,normal,P361,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 16639143, 'id': 'Q16639143'}, 'type': 'wikibase-entityid'}",38|5,7.6
+Q15284139,Q15284139$3b5ddb7b-4cd6-4443-f81f-d499ca4db45e,normal,P361,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1536303, 'id': 'Q1536303'}, 'type': 'wikibase-entityid'}",38|5,7.6
+Q31197775,Q31197775$6ad0f9a2-4f52-a1b2-9dea-8917c7072a8b,normal,P361,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 13217975, 'id': 'Q13217975'}, 'type': 'wikibase-entityid'}",38|5,7.6
+Q61014800,Q61014800$2cfb8b44-41c9-56e6-28ee-8429f1c95cdb,normal,P361,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2339538, 'id': 'Q2339538'}, 'type': 'wikibase-entityid'}",38|5,7.6
+Q73417520,Q73417520$C5B987F8-6661-438D-A711-5B60A5B80615,normal,P551,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 106477719, 'id': 'Q106477719'}, 'type': 'wikibase-entityid'}",43|5,8.6
+Q551747,Q551747$1cc62eea-4373-e7be-2843-1f7241efae88,normal,P551,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 732858, 'id': 'Q732858'}, 'type': 'wikibase-entityid'}",43|5,8.6
+Q56810009,Q56810009$7d11c61d-4dd5-c6bf-97c0-8ba66fb78a9f,normal,P551,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 56762134, 'id': 'Q56762134'}, 'type': 'wikibase-entityid'}",43|5,8.6
+Q72989239,Q72989239$7ae5f248-49cd-aa39-2989-312dd2e67306,normal,P551,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1037393, 'id': 'Q1037393'}, 'type': 'wikibase-entityid'}",43|5,8.6
+Q72989208,Q72989208$513934d8-4998-21b0-63cb-e837f801efb5,normal,P551,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 35581, 'id': 'Q35581'}, 'type': 'wikibase-entityid'}",43|5,8.6
+Q7643821,Q7643821$72cfff69-46c1-efa9-2d31-ac05335bceca,normal,P1038,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 9291384, 'id': 'Q9291384'}, 'type': 'wikibase-entityid'}",44|5,8.8
+Q60043905,Q60043905$7b90c821-4521-487d-c738-8bf6ecba7108,normal,P1038,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 4022843, 'id': 'Q4022843'}, 'type': 'wikibase-entityid'}",44|5,8.8
+Q64441522,Q64441522$474b1747-4f4c-f811-1500-c4cd61ee2390,normal,P1038,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 11934, 'id': 'Q11934'}, 'type': 'wikibase-entityid'}",44|5,8.8
+Q7643821,Q7643821$eec41421-4667-a6b1-3e5b-7e6f289f4fb3,normal,P1038,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 738569, 'id': 'Q738569'}, 'type': 'wikibase-entityid'}",44|5,8.8
+Q752269,Q752269$c8bfd992-401c-724b-1d9f-1ff561d7c3f2,normal,P1038,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2344528, 'id': 'Q2344528'}, 'type': 'wikibase-entityid'}",44|5,8.8
+Q7236397,Q7236397$b71f25bd-45cc-3934-9147-ecd401deb2a1,normal,P941,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 338430, 'id': 'Q338430'}, 'type': 'wikibase-entityid'}",44|5,8.8
+Q50808600,Q50808600$861b7a7f-4198-83b6-91cc-ab28abf1663a,normal,P941,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2465865, 'id': 'Q2465865'}, 'type': 'wikibase-entityid'}",44|5,8.8
+Q50808600,Q50808600$5f066cf1-43ea-0ffa-7ee4-6a19caf405bb,normal,P941,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 4963042, 'id': 'Q4963042'}, 'type': 'wikibase-entityid'}",44|5,8.8
+Q696766,Q696766$56c9b0a8-4b2a-4e1d-862b-8252504ef7e2,normal,P941,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 637568, 'id': 'Q637568'}, 'type': 'wikibase-entityid'}",44|5,8.8
+Q6422294,Q6422294$54613542-4552-863a-3bb0-d9098fc08fa1,normal,P941,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2695156, 'id': 'Q2695156'}, 'type': 'wikibase-entityid'}",44|5,8.8
+Q56798453,Q56798453$e7973e34-448f-e35d-b535-b93d22748efb,normal,P3828,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 170984, 'id': 'Q170984'}, 'type': 'wikibase-entityid'}",48|5,9.6
+Q718868,Q718868$E587B7F5-0C56-497A-8F2D-B35C04CDB0CF,normal,P3828,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 217541, 'id': 'Q217541'}, 'type': 'wikibase-entityid'}",48|5,9.6
+Q55405439,Q55405439$7A718BC6-773E-4160-A715-622724418E09,normal,P3828,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 200539, 'id': 'Q200539'}, 'type': 'wikibase-entityid'}",48|5,9.6
+Q87345969,Q87345969$85BB255B-E4EF-4879-BC8B-2F48BB6B62E8,normal,P3828,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 44416, 'id': 'Q44416'}, 'type': 'wikibase-entityid'}",48|5,9.6
+Q54858086,Q54858086$bbaa1c45-4f78-ab90-24ad-ffc35ce3bb45,normal,P3828,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 849302, 'id': 'Q849302'}, 'type': 'wikibase-entityid'}",48|5,9.6
+Q72986321,Q72986321$7D83612A-FC06-4B4A-88D3-FF147F3CC490,normal,P172,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 161652, 'id': 'Q161652'}, 'type': 'wikibase-entityid'}",54|5,10.8
+Q80398710,Q80398710$150B11EA-8205-4209-AC39-BCB809CBDFD0,normal,P172,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 161652, 'id': 'Q161652'}, 'type': 'wikibase-entityid'}",54|5,10.8
+Q80398704,Q80398704$52490FAA-3F7E-4A05-8CF9-B0A8DF96587A,normal,P172,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 161652, 'id': 'Q161652'}, 'type': 'wikibase-entityid'}",54|5,10.8
+Q65924442,Q65924442$287112c4-4cb8-e9f2-f660-35a59515ffe7,normal,P172,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 49078, 'id': 'Q49078'}, 'type': 'wikibase-entityid'}",54|5,10.8
+Q73489753,Q73489753$4D74BC0D-F26A-466B-90E1-EE74D3FBDE2E,normal,P172,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 161652, 'id': 'Q161652'}, 'type': 'wikibase-entityid'}",54|5,10.8
+Q101206651,Q101206651$4dcdf61a-4b1b-80c7-16ac-c2c6adb3661b,normal,P25,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 29051489, 'id': 'Q29051489'}, 'type': 'wikibase-entityid'}",57|5,11.4
+Q104759364,Q104759364$2C9DC18D-B41E-4E73-8086-FD53F3E8794F,normal,P25,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 25399069, 'id': 'Q25399069'}, 'type': 'wikibase-entityid'}",57|5,11.4
+Q28944431,Q28944431$1f7b31a7-4cd3-646c-34df-e7866090e238,normal,P25,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 945817, 'id': 'Q945817'}, 'type': 'wikibase-entityid'}",57|5,11.4
+Q1191249,Q1191249$cc4e39d1-42a8-2bf9-9653-c3f10506f81e,normal,P25,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1151986, 'id': 'Q1151986'}, 'type': 'wikibase-entityid'}",57|5,11.4
+Q3782944,Q3782944$6ce7b28f-4c20-9082-38b7-dfbcf1ed05c3,normal,P25,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2618999, 'id': 'Q2618999'}, 'type': 'wikibase-entityid'}",57|5,11.4
+Q100264006,Q100264006$a96d57b1-4ee4-5764-599b-507d9c90e53d,normal,P138,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 37562, 'id': 'Q37562'}, 'type': 'wikibase-entityid'}",58|5,11.6
+Q1191249,Q1191249$363356cd-426f-0ead-915c-48a51d27bfb9,normal,P138,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 314993, 'id': 'Q314993'}, 'type': 'wikibase-entityid'}",58|5,11.6
+Q55979929,Q55979929$6dda4516-466f-2429-39da-3d747f592a94,normal,P138,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 56351148, 'id': 'Q56351148'}, 'type': 'wikibase-entityid'}",58|5,11.6
+Q2519257,Q2519257$1442fb4f-49b8-2fdb-9ce3-88b42081630a,normal,P138,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 127050, 'id': 'Q127050'}, 'type': 'wikibase-entityid'}",58|5,11.6
+Q645718,Q645718$60ab9a9f-4c25-0ae1-c66d-1a69a1fedcd0,normal,P138,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 321305, 'id': 'Q321305'}, 'type': 'wikibase-entityid'}",58|5,11.6
+Q108732,Q108732$b31b997b-49c2-8213-82a2-19b29bdafcce,normal,P767,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 280187, 'id': 'Q280187'}, 'type': 'wikibase-entityid'}",59|5,11.8
+Q1140361,Q1140361$28a5467b-4264-2580-41e3-8a26f63a1a59,normal,P767,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 443540, 'id': 'Q443540'}, 'type': 'wikibase-entityid'}",59|5,11.8
+Q12314770,Q12314770$764BB107-4D7A-4270-B57D-13F424A7A661,normal,P767,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 443540, 'id': 'Q443540'}, 'type': 'wikibase-entityid'}",59|5,11.8
+Q11934,Q11934$f7845a4e-4364-4fcb-c10d-dc91d518cb70,normal,P767,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 336424, 'id': 'Q336424'}, 'type': 'wikibase-entityid'}",59|5,11.8
+Q2571067,Q2571067$941209d6-447a-77b7-ec06-a340bef67f88,normal,P767,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1368756, 'id': 'Q1368756'}, 'type': 'wikibase-entityid'}",59|5,11.8
+Q100165454,Q100165454$58d5720a-40a2-80b5-d189-46cb9dfe068f,normal,P4584,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 100165462, 'id': 'Q100165462'}, 'type': 'wikibase-entityid'}",61|5,12.2
+Q100312969,Q100312969$be560579-40db-4542-142b-a55d51552185,normal,P4584,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 83646346, 'id': 'Q83646346'}, 'type': 'wikibase-entityid'}",61|5,12.2
+Q78477793,Q78477793$372d908f-4cc5-f5e6-804b-eb9a575b4f32,normal,P4584,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1463466, 'id': 'Q1463466'}, 'type': 'wikibase-entityid'}",61|5,12.2
+Q64876660,Q64876660$6e09de3b-4b05-36d7-ba24-db22181e891b,normal,P4584,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 30895582, 'id': 'Q30895582'}, 'type': 'wikibase-entityid'}",61|5,12.2
+Q107038645,Q107038645$5C97824F-64DC-442B-AB05-CFB646771188,normal,P4584,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 7282861, 'id': 'Q7282861'}, 'type': 'wikibase-entityid'}",61|5,12.2
+Q7940346,Q7940346$70b2f924-4f3c-7907-4ed4-0bc163ad35e5,normal,P144,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 847429, 'id': 'Q847429'}, 'type': 'wikibase-entityid'}",63|5,12.6
+Q7548342,Q7548342$49717c76-4cc7-7798-5f98-48d77e4eda6c,normal,P144,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2739228, 'id': 'Q2739228'}, 'type': 'wikibase-entityid'}",63|5,12.6
+Q101616010,Q101616010$81b591e3-4bc3-5005-566b-db021f737871,normal,P144,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 73416453, 'id': 'Q73416453'}, 'type': 'wikibase-entityid'}",63|5,12.6
+Q52093120,Q52093120$27535a23-4c37-4ebb-e0a1-94c6371984e7,normal,P144,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 44204, 'id': 'Q44204'}, 'type': 'wikibase-entityid'}",63|5,12.6
+Q105697028,Q105697028$6bf813c9-4304-05ef-893e-87d39cd53f0b,normal,P144,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 929273, 'id': 'Q929273'}, 'type': 'wikibase-entityid'}",63|5,12.6
+Q2082114,Q2082114$d65bcac3-48fc-c7f8-4a00-95d1b958a4fb,normal,P4969,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 100268344, 'id': 'Q100268344'}, 'type': 'wikibase-entityid'}",69|5,13.8
+Q105443865,Q105443865$72151a76-46ca-bf6b-34ab-d02d67fae550,normal,P4969,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 105443910, 'id': 'Q105443910'}, 'type': 'wikibase-entityid'}",69|5,13.8
+Q534153,Q534153$31635EA7-9B20-47E3-9C35-FE80EFAE611B,normal,P4969,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1607114, 'id': 'Q1607114'}, 'type': 'wikibase-entityid'}",69|5,13.8
+Q126680,Q126680$227A9E28-113D-4776-B552-2AB94F7040BE,normal,P4969,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 50389784, 'id': 'Q50389784'}, 'type': 'wikibase-entityid'}",69|5,13.8
+Q56798453,Q56798453$8c57ddb6-4243-86ab-5a58-19922b39a8e7,normal,P4969,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 58207644, 'id': 'Q58207644'}, 'type': 'wikibase-entityid'}",69|5,13.8
+Q11934,Q11934$7b0ed2df-4e1c-c917-1620-8e64491b119f,normal,P451,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 11936, 'id': 'Q11936'}, 'type': 'wikibase-entityid'}",72|5,14.4
+Q838076,Q838076$B9769485-3BFF-40F3-82BE-CBE978CCDD52,normal,P451,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2842673, 'id': 'Q2842673'}, 'type': 'wikibase-entityid'}",72|5,14.4
+Q2531690,Q2531690$4ebb4484-4330-a756-f52a-a2745affd0ab,normal,P451,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2260946, 'id': 'Q2260946'}, 'type': 'wikibase-entityid'}",72|5,14.4
+Q1051111,Q1051111$743b9b63-464b-045b-62ad-6976c01c72fc,normal,P451,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 737236, 'id': 'Q737236'}, 'type': 'wikibase-entityid'}",72|5,14.4
+Q47542682,Q47542682$7f6c6801-413b-4b44-57c8-d42ddcd08663,normal,P451,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3783774, 'id': 'Q3783774'}, 'type': 'wikibase-entityid'}",72|5,14.4
+Q105355298,Q105355298$C57491A6-86CC-4763-99E1-4E513082F643,normal,P5800,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 12317360, 'id': 'Q12317360'}, 'type': 'wikibase-entityid'}",73|5,14.6
+Q796476,Q796476$3B644D92-81D7-4834-8E91-C41E1FE5BA7C,normal,P5800,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 247297, 'id': 'Q247297'}, 'type': 'wikibase-entityid'}",73|5,14.6
+Q2240357,Q2240357$D0083EDD-DF9C-476C-941B-765521A58B86,normal,P5800,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 27623618, 'id': 'Q27623618'}, 'type': 'wikibase-entityid'}",73|5,14.6
+Q1039655,Q1039655$B0BA7381-7FEC-4190-A5B6-E969D8A573D3,normal,P5800,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 215972, 'id': 'Q215972'}, 'type': 'wikibase-entityid'}",73|5,14.6
+Q3279678,Q3279678$48cf87a2-4c18-39d7-6f85-affb6191b2b4,normal,P5800,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 215972, 'id': 'Q215972'}, 'type': 'wikibase-entityid'}",73|5,14.6
+Q1139706,Q1139706$5D58E0DC-ADEC-4E2D-9F9E-298E2FC96BE4,normal,P1889,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 24046150, 'id': 'Q24046150'}, 'type': 'wikibase-entityid'}",76|5,15.2
+Q3609511,Q3609511$3ddb4d28-4e02-93dc-c043-0dc172c77287,normal,P1889,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 929988, 'id': 'Q929988'}, 'type': 'wikibase-entityid'}",76|5,15.2
+Q15961397,Q15961397$0BC0A278-2EF5-4088-B0F4-2E06855E58A1,normal,P1889,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1779694, 'id': 'Q1779694'}, 'type': 'wikibase-entityid'}",76|5,15.2
+Q1060159,Q1060159$5DE4B25F-DD54-4330-99AB-92D57DC7E096,normal,P1889,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2428042, 'id': 'Q2428042'}, 'type': 'wikibase-entityid'}",76|5,15.2
+Q3992463,Q3992463$C1134924-B2B1-4D57-8C08-7BDFBD003469,normal,P1889,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 7815574, 'id': 'Q7815574'}, 'type': 'wikibase-entityid'}",76|5,15.2
+Q3703798,Q3703798$964b5093-4f9c-2d61-3cbb-c82eb9be4d15,normal,P1165,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 3968367, 'id': 'Q3968367'}, 'type': 'wikibase-entityid'}",78|5,15.6
+Q100165454,Q100165454$c8ac6651-439d-88c8-d437-3b05b57823a3,normal,P1165,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 83792197, 'id': 'Q83792197'}, 'type': 'wikibase-entityid'}",78|5,15.6
+Q3706302,Q3706302$7238d997-4873-3eba-8c7c-214526516df6,normal,P1165,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1411016, 'id': 'Q1411016'}, 'type': 'wikibase-entityid'}",78|5,15.6
+Q1058262,Q1058262$52f21543-4c72-18d6-07e8-7d1e40c54b09,normal,P1165,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1419639, 'id': 'Q1419639'}, 'type': 'wikibase-entityid'}",78|5,15.6
+Q105431726,Q105431726$3c4ae876-4a9e-5c10-aaba-fa0b2e81686f,normal,P1165,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 623138, 'id': 'Q623138'}, 'type': 'wikibase-entityid'}",78|5,15.6
+Q2634870,Q2634870$0C357352-1A56-4C5B-9F5C-4D6C3F57B14B,normal,P26,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1753262, 'id': 'Q1753262'}, 'type': 'wikibase-entityid'}",92|5,18.4
+Q19637309,Q19637309$99bc970b-49fb-ed74-7a5e-fc0cca49a9ed,normal,P26,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 19637411, 'id': 'Q19637411'}, 'type': 'wikibase-entityid'}",92|5,18.4
+Q42332357,Q42332357$B5CB7A13-DF89-4C8B-A2CB-93AD228C0158,normal,P26,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 30082874, 'id': 'Q30082874'}, 'type': 'wikibase-entityid'}",92|5,18.4
+Q60685,Q60685$84ed78da-44b4-d746-0750-7d3ca638b4a4,normal,P26,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 12766803, 'id': 'Q12766803'}, 'type': 'wikibase-entityid'}",92|5,18.4
+Q102400378,Q102400378$fc3315ec-4ab0-5a5f-cbf9-a32cabce2c7e,normal,P26,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 102400376, 'id': 'Q102400376'}, 'type': 'wikibase-entityid'}",92|5,18.4
+Q5197011,Q5197011$c731ed49-4e54-ee0e-b18d-2faf64379a0f,normal,P1477,monolingualtext,"{'value': {'text': 'Simon Jones', 'language': 'en'}, 'type': 'monolingualtext'}",95|5,19.0
+Q2354120,Q2354120$e6e38bac-4bb8-1f00-b550-6062a26c65d3,normal,P1477,monolingualtext,"{'value': {'text': 'Thaddeus Thawne', 'language': 'en'}, 'type': 'monolingualtext'}",95|5,19.0
+Q534153,Q534153$d3d43795-4561-eef4-322e-a9f1106e68b7,normal,P1477,monolingualtext,"{'value': {'text': 'William Joseph Batson', 'language': 'en'}, 'type': 'monolingualtext'}",95|5,19.0
+Q5479846,Q5479846$5847b772-4776-a367-cf67-b545b87647d4,normal,P1477,monolingualtext,"{'value': {'text': 'Francine Evelyn Lee', 'language': 'en'}, 'type': 'monolingualtext'}",95|5,19.0
+Q1087722,Q1087722$a5972ce8-44dd-89bd-0a42-49faad31b0e0,normal,P1477,monolingualtext,"{'value': {'text': 'Michael Morbius', 'language': 'en'}, 'type': 'monolingualtext'}",95|5,19.0
+Q6726352,Q6726352$6efa068f-4f3b-942b-d1e6-81e129038482,normal,P19,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 21, 'id': 'Q21'}, 'type': 'wikibase-entityid'}",96|5,19.2
+Q632212,Q632212$2759f653-45b6-6193-8b49-9b3636da9ce0,normal,P19,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 60, 'id': 'Q60'}, 'type': 'wikibase-entityid'}",96|5,19.2
+Q5658469,Q5658469$2088bd0c-471e-ad9b-31b0-766d56a86dc7,normal,P19,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 41329, 'id': 'Q41329'}, 'type': 'wikibase-entityid'}",96|5,19.2
+Q96943500,Q96943500$20694d1e-4070-cc78-1c9f-5bb4a3be711a,normal,P19,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 17063, 'id': 'Q17063'}, 'type': 'wikibase-entityid'}",96|5,19.2
+Q2539039,Q2539039$7dd998a3-4aca-c91b-69b7-188110130f4e,normal,P19,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1214, 'id': 'Q1214'}, 'type': 'wikibase-entityid'}",96|5,19.2
+Q65924637,Q65924637$D238B1F0-CA44-4A7C-BEE7-FCCBCCB72468,normal,P22,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 65924076, 'id': 'Q65924076'}, 'type': 'wikibase-entityid'}",101|5,20.2
+Q4111541,Q4111541$dfa88427-485b-1966-39e5-c83e8a224324,normal,P22,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 17486714, 'id': 'Q17486714'}, 'type': 'wikibase-entityid'}",101|5,20.2
+Q4993760,Q4993760$46c0125f-417d-0c83-85e1-65c6ca22396f,normal,P22,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1042390, 'id': 'Q1042390'}, 'type': 'wikibase-entityid'}",101|5,20.2
+Q507241,Q507241$C7FC4E5B-DE28-4E6F-8E7F-16B9F9F5CFCF,normal,P22,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1621261, 'id': 'Q1621261'}, 'type': 'wikibase-entityid'}",101|5,20.2
+Q37709790,Q37709790$2ebdd7df-4f86-2626-cbd8-d5b0c79c8006,normal,P22,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 56762213, 'id': 'Q56762213'}, 'type': 'wikibase-entityid'}",101|5,20.2
+Q3831740,Q3831740$f5a51258-4fe5-ea05-c7ff-f7b655cde90d,normal,P103,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 7976, 'id': 'Q7976'}, 'type': 'wikibase-entityid'}",131|5,26.2
+Q30935313,Q30935313$3de87c4b-4a37-c68b-7cc0-8a023eb11d68,normal,P103,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 7976, 'id': 'Q7976'}, 'type': 'wikibase-entityid'}",131|5,26.2
+Q1773836,Q1773836$6e65db3b-423a-ebca-57a9-5287984ec704,normal,P103,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 7976, 'id': 'Q7976'}, 'type': 'wikibase-entityid'}",131|5,26.2
+Q2556873,Q2556873$d9a7bb02-48f1-ea76-652d-a7d2f1ab972e,normal,P103,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 7976, 'id': 'Q7976'}, 'type': 'wikibase-entityid'}",131|5,26.2
+Q7573966,Q7573966$53907aed-4fdc-a0f7-7fff-cf6fffed7cb3,normal,P103,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 44676, 'id': 'Q44676'}, 'type': 'wikibase-entityid'}",131|5,26.2
+Q108732,Q108732$a1130648-4109-5cde-c7f6-53f7eea9d8e9,normal,P1340,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 17244465, 'id': 'Q17244465'}, 'type': 'wikibase-entityid'}",131|5,26.2
+Q105736946,Q105736946$7d221ca6-44a9-9d23-ba24-ee8a967e2911,normal,P1340,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 17291407, 'id': 'Q17291407'}, 'type': 'wikibase-entityid'}",131|5,26.2
+Q104785246,Q104785246$2a0d9b25-41f3-083b-6c97-1832151ebe04,normal,P1340,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 17244465, 'id': 'Q17244465'}, 'type': 'wikibase-entityid'}",131|5,26.2
+Q105355837,Q105355837$27f7d13c-4201-5e8a-834e-487f10525922,normal,P1340,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 27839441, 'id': 'Q27839441'}, 'type': 'wikibase-entityid'}",131|5,26.2
+Q755181,Q755181$04F28637-B036-49D3-BF56-6AFC0650F43A,normal,P1340,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 17122834, 'id': 'Q17122834'}, 'type': 'wikibase-entityid'}",131|5,26.2
+Q718509,Q718509$f60d036f-48d3-cbe4-581f-c08995da0eec,normal,P1884,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 152357, 'id': 'Q152357'}, 'type': 'wikibase-entityid'}",157|5,31.4
+Q105715936,Q105715936$e0c58254-4d10-cf91-1558-0c77547eadb7,normal,P1884,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 10509939, 'id': 'Q10509939'}, 'type': 'wikibase-entityid'}",157|5,31.4
+Q72988359,Q72988359$431d63fb-42fa-49a9-cab2-217d937acb75,normal,P1884,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 19916539, 'id': 'Q19916539'}, 'type': 'wikibase-entityid'}",157|5,31.4
+Q85927848,Q85927848$4bf7a4ce-47d5-783d-eced-64766f17f043,normal,P1884,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 4930092, 'id': 'Q4930092'}, 'type': 'wikibase-entityid'}",157|5,31.4
+Q59928856,Q59928856$9e6084e9-4b4f-ee75-05b5-fc8295b0ec13,normal,P1884,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 202466, 'id': 'Q202466'}, 'type': 'wikibase-entityid'}",157|5,31.4
+Q6829798,Q6829798$07311545-41be-869d-b879-a3ef09286eb8,normal,P40,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 5353168, 'id': 'Q5353168'}, 'type': 'wikibase-entityid'}",158|4,39.5
+Q19637309,Q19637309$df6c6053-4c8d-6506-3d2b-842d8a6b8277,normal,P40,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 19637431, 'id': 'Q19637431'}, 'type': 'wikibase-entityid'}",158|4,39.5
+Q72989234,Q72989234$eba32589-434c-7184-e892-b855ece43e6a,normal,P40,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 72989229, 'id': 'Q72989229'}, 'type': 'wikibase-entityid'}",158|4,39.5
+Q95349258,Q95349258$1b237794-4a5c-764f-dd3c-17f7a86cd1be,normal,P40,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 95350042, 'id': 'Q95350042'}, 'type': 'wikibase-entityid'}",158|4,39.5
+Q30610860,Q30610860$82d7df61-4672-1ff2-6e29-1cda82191b22,normal,P3373,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 53672421, 'id': 'Q53672421'}, 'type': 'wikibase-entityid'}",201|4,50.25
+Q104923829,Q104923829$cce68997-437b-f33c-9cf0-4f1afe80b355,normal,P3373,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 61093198, 'id': 'Q61093198'}, 'type': 'wikibase-entityid'}",201|4,50.25
+Q106348735,Q106348735$61a7a48d-4bb0-c9ba-5343-e75ce4e68b91,normal,P3373,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1646040, 'id': 'Q1646040'}, 'type': 'wikibase-entityid'}",201|4,50.25
+Q64441522,Q64441522$3dac090f-4626-559a-bfc7-d868773d9319,normal,P3373,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 64441521, 'id': 'Q64441521'}, 'type': 'wikibase-entityid'}",201|4,50.25
+Q2657337,Q2657337$62f098a2-4c27-fc75-e838-1825804a412e,normal,P7047,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1839954, 'id': 'Q1839954'}, 'type': 'wikibase-entityid'}",202|4,50.5
+Q1140524,Q1140524$E313882B-BBF8-448A-9490-20C5D79B21E6,normal,P7047,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 91469616, 'id': 'Q91469616'}, 'type': 'wikibase-entityid'}",202|4,50.5
+Q16203328,Q16203328$a72d246a-4234-35da-8710-ed47cd067cdc,normal,P7047,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2539423, 'id': 'Q2539423'}, 'type': 'wikibase-entityid'}",202|4,50.5
+Q52166427,Q52166427$27587d72-4c18-fb0e-536f-2723d0e99ab2,normal,P7047,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6411249, 'id': 'Q6411249'}, 'type': 'wikibase-entityid'}",202|4,50.5
+Q3704333,Q3704333$009e97d0-4801-9f9d-3191-60970ece2ac6,normal,P8345,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 537389, 'id': 'Q537389'}, 'type': 'wikibase-entityid'}",302|4,75.5
+Q64229369,Q64229369$268DBC41-E739-4911-A931-4ED379385B2A,normal,P8345,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 101107879, 'id': 'Q101107879'}, 'type': 'wikibase-entityid'}",302|4,75.5
+Q15119240,Q15119240$e94bcc3f-43c0-84c3-17f8-744fad1ff3b8,normal,P8345,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 642, 'id': 'Q642'}, 'type': 'wikibase-entityid'}",302|4,75.5
+Q76872538,Q76872538$2C2A1194-A1F8-4513-9F31-B3407D2EF768,normal,P8345,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 98713259, 'id': 'Q98713259'}, 'type': 'wikibase-entityid'}",302|4,75.5
+Q18237447,Q18237447$6016d89f-4796-6a10-f108-563af05c657f,normal,P1412,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 96108504, 'id': 'Q96108504'}, 'type': 'wikibase-entityid'}",313|4,78.25
+Q106373153,Q106373153$acba3cec-4f01-a638-cfb5-7f3ec160cee8,normal,P1412,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 7737, 'id': 'Q7737'}, 'type': 'wikibase-entityid'}",313|4,78.25
+Q5531648,Q5531648$d604367b-43c7-ccc2-ecb9-68d928f670cf,normal,P1412,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1860, 'id': 'Q1860'}, 'type': 'wikibase-entityid'}",313|4,78.25
+Q385075,Q385075$759c63ea-4e0f-8fe3-533a-8d9f8bd2daf7,normal,P1412,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1860, 'id': 'Q1860'}, 'type': 'wikibase-entityid'}",313|4,78.25
+Q94579117,Q94579117$a23c0042-406d-80dc-b7be-21899ae3923a,normal,P734,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 26448803, 'id': 'Q26448803'}, 'type': 'wikibase-entityid'}",341|4,85.25
+Q30879720,Q30879720$9101ebd8-4bee-ace1-75d6-08b4fc1bcddb,normal,P734,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1794217, 'id': 'Q1794217'}, 'type': 'wikibase-entityid'}",341|4,85.25
+Q295599,Q295599$ae1c0caf-4e8b-b39f-bb85-b09e5d00b217,normal,P734,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 16869519, 'id': 'Q16869519'}, 'type': 'wikibase-entityid'}",341|4,85.25
+Q15630538,Q15630538$ba4c59da-41c5-eca9-4231-3770f4ac1198,normal,P734,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 26447251, 'id': 'Q26447251'}, 'type': 'wikibase-entityid'}",341|4,85.25
+Q50808600,Q50808600$d30df5b1-4f2d-0177-4417-5a79cf564af5,normal,P175,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 25414630, 'id': 'Q25414630'}, 'type': 'wikibase-entityid'}",401|4,100.25
+Q4921469,Q4921469$a7b96cec-4459-f825-7ccd-592fafaf2642,normal,P175,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 551558, 'id': 'Q551558'}, 'type': 'wikibase-entityid'}",401|4,100.25
+Q1150106,Q1150106$15be2cc1-4c17-2fdb-ccb2-b6ebdbb4efe0,normal,P175,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 391359, 'id': 'Q391359'}, 'type': 'wikibase-entityid'}",401|4,100.25
+Q30880112,Q30880112$52b83e67-4636-5d01-fd95-1ea1d44897a0,normal,P175,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 973472, 'id': 'Q973472'}, 'type': 'wikibase-entityid'}",401|4,100.25
+Q1744341,Q1744341$afebb51a-4738-4495-9620-0fc59f30c441,normal,P27,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1102030, 'id': 'Q1102030'}, 'type': 'wikibase-entityid'}",407|4,101.75
+Q3941994,Q3941994$cf2ab07d-4e93-487d-3d4f-7d5367fa8ad2,normal,P27,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 30, 'id': 'Q30'}, 'type': 'wikibase-entityid'}",407|4,101.75
+Q509235,Q509235$6F64FFCF-D356-4735-B045-ADAA0837AACE,normal,P27,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 30, 'id': 'Q30'}, 'type': 'wikibase-entityid'}",407|4,101.75
+Q13512245,Q13512245$7053f873-4531-9282-2bef-d0f5afee4d00,normal,P27,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 30, 'id': 'Q30'}, 'type': 'wikibase-entityid'}",407|4,101.75
+Q97361987,Q97361987$041F0BB5-2981-41D9-B897-43B5FC17C703,normal,P725,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 20090133, 'id': 'Q20090133'}, 'type': 'wikibase-entityid'}",429|4,107.25
+Q105359003,Q105359003$0259e9a4-480d-134b-84ad-5ace472f2660,normal,P725,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 888218, 'id': 'Q888218'}, 'type': 'wikibase-entityid'}",429|4,107.25
+Q19357824,Q19357824$464d8703-47b7-13bc-bfe5-396041f844b4,normal,P725,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 50033, 'id': 'Q50033'}, 'type': 'wikibase-entityid'}",429|4,107.25
+Q102417479,Q102417479$b522944b-4989-a906-0a60-14748b7759e5,normal,P725,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 17160610, 'id': 'Q17160610'}, 'type': 'wikibase-entityid'}",429|4,107.25
+Q3876803,Q3876803$e10571cd-470e-15b2-a239-bb1a2f4b09b7,normal,P1559,monolingualtext,"{'value': {'text': 'Nightshade', 'language': 'en'}, 'type': 'monolingualtext'}",609|4,152.25
+Q5220972,Q5220972$68db0093-44ff-978c-b3e1-1d5e6bd52cb1,normal,P1559,monolingualtext,"{'value': {'text': 'Danny the Street', 'language': 'en'}, 'type': 'monolingualtext'}",609|4,152.25
+Q6743660,Q6743660$5a8260e3-4fc3-8563-9ca1-13ab74c06975,normal,P1559,monolingualtext,"{'value': {'text': 'Malikai', 'language': 'en'}, 'type': 'monolingualtext'}",609|4,152.25
+Q838088,Q838088$a7f77699-4566-30cd-5b46-1b154fb4c64a,normal,P1559,monolingualtext,"{'value': {'text': 'Iceman', 'language': 'en'}, 'type': 'monolingualtext'}",609|4,152.25
+Q1638511,Q1638511$254FA555-EA8E-4FEF-8205-060B99A236AD,normal,P735,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 15238167, 'id': 'Q15238167'}, 'type': 'wikibase-entityid'}",611|4,152.75
+Q2917078,Q2917078$289933e5-4e5f-c761-3064-11d8101bd232,normal,P735,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 21513094, 'id': 'Q21513094'}, 'type': 'wikibase-entityid'}",611|4,152.75
+Q1203370,Q1203370$462d79af-4592-4897-6470-6dfede366a25,normal,P735,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 58785498, 'id': 'Q58785498'}, 'type': 'wikibase-entityid'}",611|4,152.75
+Q96678035,Q96678035$f606aca4-4200-030d-2dc0-138a9657e321,normal,P735,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 7426386, 'id': 'Q7426386'}, 'type': 'wikibase-entityid'}",611|4,152.75
+Q3115862,Q3115862$D92DDDF7-6E8D-4D18-8499-E504E113A579,normal,P463,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 128452, 'id': 'Q128452'}, 'type': 'wikibase-entityid'}",682|4,170.5
+Q2275950,Q2275950$8da58425-4c99-e6c3-d6cc-4b78b8f836cc,normal,P463,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 938034, 'id': 'Q938034'}, 'type': 'wikibase-entityid'}",682|4,170.5
+Q2556873,Q2556873$0f27edaf-4350-1d90-1a81-c6889cde5cd3,normal,P463,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 11218, 'id': 'Q11218'}, 'type': 'wikibase-entityid'}",682|4,170.5
+Q2005691,Q2005691$a466a0a6-4a25-0ad4-d867-c6aac1eddb2d,normal,P463,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 616136, 'id': 'Q616136'}, 'type': 'wikibase-entityid'}",682|4,170.5
+Q30610860,Q30610860$a715310d-4126-9d53-c9c1-5167f32cd043,normal,P2563,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 170612, 'id': 'Q170612'}, 'type': 'wikibase-entityid'}",961|4,240.25
+Q3543698,Q3543698$2aa29e9a-471e-e4ac-599f-599126534eab,normal,P2563,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 51879220, 'id': 'Q51879220'}, 'type': 'wikibase-entityid'}",961|4,240.25
+Q3316564,Q3316564$e498a567-4e0c-b32a-f398-6e400772e7b8,normal,P2563,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 4386945, 'id': 'Q4386945'}, 'type': 'wikibase-entityid'}",961|4,240.25
+Q6720587,Q6720587$e7300821-4f51-669b-6afd-a2168bdca6e1,normal,P2563,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 83795568, 'id': 'Q83795568'}, 'type': 'wikibase-entityid'}",961|4,240.25
+Q7557037,Q7557037$fc74e5e7-4c93-dd66-85ae-d0881f19fe93,normal,P170,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 943047, 'id': 'Q943047'}, 'type': 'wikibase-entityid'}",1117|4,279.25
+Q15141544,Q15141544$6bf799a2-4e8a-1cc6-b7af-a1a87e83d2b2,normal,P170,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 239360, 'id': 'Q239360'}, 'type': 'wikibase-entityid'}",1117|4,279.25
+Q3777261,Q3777261$55056859-4dbe-4708-b6b5-28b116f3a6fb,normal,P170,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2086637, 'id': 'Q2086637'}, 'type': 'wikibase-entityid'}",1117|4,279.25
+Q6546413,Q6546413$25c40c11-4e8f-c2a5-bb93-7b63d4459623,normal,P170,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1507300, 'id': 'Q1507300'}, 'type': 'wikibase-entityid'}",1117|4,279.25
+Q60043905,Q60043905$d0e6f002-410e-fe7a-7a3f-5c72a4de92ce,normal,P1080,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1152150, 'id': 'Q1152150'}, 'type': 'wikibase-entityid'}",1241|4,310.25
+Q105152625,Q105152625$865FA3A3-AB7B-4314-A18B-3FEEA3527005,normal,P1080,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 105037396, 'id': 'Q105037396'}, 'type': 'wikibase-entityid'}",1241|4,310.25
+Q16385526,Q16385526$06b08ad7-413e-7dfa-5f00-b152bbbd72a9,normal,P1080,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 1152150, 'id': 'Q1152150'}, 'type': 'wikibase-entityid'}",1241|4,310.25
+Q2344068,Q2344068$EED64EFC-C663-46CC-B54B-6D21D3D8C803,normal,P1080,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 12301358, 'id': 'Q12301358'}, 'type': 'wikibase-entityid'}",1241|4,310.25
+Q1051167,Q1051167$d0f1b629-4271-052f-87cf-9e78ffa0378f,normal,P106,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 188784, 'id': 'Q188784'}, 'type': 'wikibase-entityid'}",1273|4,318.25
+Q7880226,Q7880226$6D6352EA-E9EF-4B0B-9719-33A4A64350C3,normal,P106,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 4991371, 'id': 'Q4991371'}, 'type': 'wikibase-entityid'}",1273|4,318.25
+Q1447287,Q1447287$8c7497f1-4ba1-4b94-ea84-8506d359ac26,normal,P106,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 188784, 'id': 'Q188784'}, 'type': 'wikibase-entityid'}",1273|4,318.25
+Q944728,Q944728$19f023b8-4b48-621f-8f40-077064c4d54b,normal,P106,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 15360275, 'id': 'Q15360275'}, 'type': 'wikibase-entityid'}",1273|4,318.25
+Q74027916,Q74027916$b0ad1cae-416f-f13a-a9f6-f3c3a8c67d2f,normal,P21,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6581072, 'id': 'Q6581072'}, 'type': 'wikibase-entityid'}",1664|4,416.0
+Q106636355,Q106636355$8B8BF4A2-E43A-47A9-90DC-7890356803DB,normal,P21,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6581097, 'id': 'Q6581097'}, 'type': 'wikibase-entityid'}",1664|4,416.0
+Q11682350,Q11682350$8fd042e1-46eb-af7e-03ec-339c4bfde15c,normal,P21,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6581072, 'id': 'Q6581072'}, 'type': 'wikibase-entityid'}",1664|4,416.0
+Q97361987,Q97361987$9b27d033-4a78-ff92-fa40-f68b0029e513,normal,P21,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 6581072, 'id': 'Q6581072'}, 'type': 'wikibase-entityid'}",1664|4,416.0
+Q19382,Q19382$fa051569-4bc3-1bfc-07d1-f3dfff36fb5d,normal,P1441,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 229808, 'id': 'Q229808'}, 'type': 'wikibase-entityid'}",2513|4,628.25
+Q11693363,Q11693363$3d5449bb-4dd9-5214-cf11-31cb113f277e,normal,P1441,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 216204, 'id': 'Q216204'}, 'type': 'wikibase-entityid'}",2513|4,628.25
+Q2866900,Q2866900$8072b70b-44dd-5bae-e4fd-5b25959c556e,normal,P1441,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 2471267, 'id': 'Q2471267'}, 'type': 'wikibase-entityid'}",2513|4,628.25
+Q302186,Q302186$9535132b-467d-4a82-4da8-5d0703f931a8,normal,P1441,wikibase-item,"{'value': {'entity-type': 'item', 'numeric-id': 25431158, 'id': 'Q25431158'}, 'type': 'wikibase-entityid'}",2513|4,628.25

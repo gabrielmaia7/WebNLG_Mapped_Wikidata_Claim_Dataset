@@ -62,11 +62,11 @@ class CachedWikidataAPI():
                 self.save_entity_cache()
                 return 'deleted'
 
-    def get_label(self, item):
+    def get_label(self, item, non_language_set=False):
         if type(item) == str:        
             entity = self.get_entity(item)
             if entity == 'deleted':
-                return entity
+                return (entity, 'none')
             labels = entity['labels' if 'labels' in entity else 'lemmas']
         elif type(item) == dict:
             if 'labels' in item:
@@ -75,8 +75,49 @@ class CachedWikidataAPI():
                 labels = item['lemmas']
         for l in self.languages:
             if l in labels:
-                return labels[l]['value']
-        return 'no-label'
+                return (labels[l]['value'], l)
+        if non_language_set:
+            all_labels = list(labels.keys())
+            if len(all_labels)>0:
+                return (labels[all_labels[0]]['value'], all_labels[0])
+        return ('no-label', 'none')
+    
+    def get_desc(self, item, non_language_set=False):
+        if type(item) == str:        
+            entity = self.get_entity(item)
+            if entity == 'deleted':
+                return (entity, 'none')
+            descriptions = entity['descriptions']
+        elif type(item) == dict:
+            if 'descriptions' in item:
+                descriptions = item['descriptions']
+        for l in self.languages:
+            if l in descriptions:
+                return (descriptions[l]['value'], l)
+        if non_language_set:
+            all_descriptions = list(descriptions.keys())
+            if len(all_descriptions)>0:
+                return (descriptions[all_descriptions[0]]['value'], all_descriptions[0])
+        return ('no-desc', 'none')
+    
+    def get_alias(self, item, non_language_set=False):
+        if type(item) == str:        
+            entity = self.get_entity(item)
+            if entity == 'deleted':
+                return ([entity], 'none')
+            aliases = entity['aliases']
+        elif type(item) == dict:
+            if 'aliases' in item:
+                aliases = item['aliases']
+        for l in self.languages:
+            if l in aliases:
+                return ([alias['value'] for alias in aliases[l]], l)
+        if non_language_set:
+            all_aliases = list(aliases.keys())
+            if len(all_aliases)>0:            
+                return (aliases[all_aliases[0]]['value'], all_aliases[0])
+                return ([alias['value'] for alias in aliases[all_aliases[0]]], all_aliases[0])
+        return ('no-alias', 'none')
 
     def get_datatype(self, item):
         try:
